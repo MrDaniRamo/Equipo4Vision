@@ -1,8 +1,11 @@
 # Equipo4Vision
 # Autores
 Melchor Daniel Ramos Ibarra        A01282881
+
 Rafael Alonso Ugarte Rojas             A00820677
+
 Antonio Enrique Franco Gámez         A01252180
+
 Yelanetzi Zahylí Chávez Hernández     A00820098
 
 Intrucciones:
