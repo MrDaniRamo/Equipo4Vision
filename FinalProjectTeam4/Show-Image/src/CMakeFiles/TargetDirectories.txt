@@ -1,0 +1,3 @@
+/home/daniel/Downloads/FinalProjectTeam4/Show-Image/src/CMakeFiles/rebuild_cache.dir
+/home/daniel/Downloads/FinalProjectTeam4/Show-Image/src/CMakeFiles/edit_cache.dir
+/home/daniel/Downloads/FinalProjectTeam4/Show-Image/src/CMakeFiles/main.dir
