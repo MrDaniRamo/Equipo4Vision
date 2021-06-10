@@ -1,5 +1,5 @@
 # Equipo4Vision
-#Autores
+# Autores
 Melchor Daniel Ramos Ibarra        A01282881
 Rafael Alonso Ugarte Rojas             A00820677
 Antonio Enrique Franco Gámez         A01252180
